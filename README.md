@@ -2,7 +2,10 @@
   this repo, holds coding and documentation for the project 
 
 
-  ### Project Brief 
+  ### Project Brief :
+
+  
+  Using Machine Learning - Time Series Analysis, predicting the stock market price and comparing which model performs the best. 
 
   
 
