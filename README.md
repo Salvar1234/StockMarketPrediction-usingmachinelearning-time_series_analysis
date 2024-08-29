@@ -1,5 +1,5 @@
 # StockMarketPrediction-usingmachinelearning-time_series_analysis
-  this repo, holds coding and documentation for the project 
+  This repo, holds coding and documentation for the project. 
 
 
   ### Project Brief :
